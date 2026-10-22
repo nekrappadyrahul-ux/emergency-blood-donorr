@@ -1,0 +1,6 @@
+{
+  "name": "BloodConnect",
+  "description": "Find available blood nearby and quickly connect a patient with a verified hospital or donor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
